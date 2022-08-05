@@ -14,7 +14,7 @@ Implementation
 
 Tokens(ETH and SAT)
 
-Our project is different from most other Blockchain projects since two tokens are required for the system to function smoothly. ETH is the Ethereum token which is linked to our own created token SAT for internal mechanism vital to the functioning of the platform. ETH is mainly the transaction fee for every transaction on Ethereum Blockchain whereas SAT token will be exclusively used inside the SARA network. This approach allows for a stable exchange rate. All interactions between platform, users, stakeholders and companies is based on this approach. We understand that as more and more people use our platform, the demand of the SAT token will become higher than the supply and it’s price on exchanges will start to grow. The system design ensures that the currency rate of SAT should not be affected by the market. To accomplish this, we have decided to make 1 SAT equals to 10 INR for now. It will be later decided on Crowdfunding.
+Our project is different from most other Blockchain projects since two tokens are required for the system to function smoothly. ETH is the Ethereum token which is linked to our own created token SAT for internal mechanism vital to the functioning of the platform. ETH is mainly the transaction fee for every transaction on Ethereum Blockchain whereas SAT token will be exclusively used inside the SIRI network. This approach allows for a stable exchange rate. All interactions between platform, users, stakeholders and companies is based on this approach. We understand that as more and more people use our platform, the demand of the SAT token will become higher than the supply and it’s price on exchanges will start to grow. The system design ensures that the currency rate of SAT should not be affected by the market. To accomplish this, we have decided to make 1 SAT equals to 10 INR for now. It will be later decided on Crowdfunding.
 
 Design
 
@@ -23,7 +23,7 @@ The main public Ethereum decentralized network, which uses the concept of smart 
 • The Ethereum network currently is theoretically capable of handling about 10 transactions per second , which is definitely not enough for the scale of millions of users (or even hundreds of thousands of users).
 • Ethereum’s transaction confirmation times are significantly delayed - which affect the user experience.
 • Every transaction on Ethereum blockchain is required to pay transaction fee in ETH which most likely will be costly and creating an adoption barrier for the average user.
-This hybrid approach will help avoid network fees in transactions between users, avoid stress on the public network due to the large volume of transactions and improve the user experience in terms of responsiveness and latency. This design is applicable for every type of review and SARA Supply Chain where the auditor plays the same role as the reviewer in SARA review and mainly responsible for auditing, checking the compliance of the processes and standards of Supply Chain system.
+This hybrid approach will help avoid network fees in transactions between users, avoid stress on the public network due to the large volume of transactions and improve the user experience in terms of responsiveness and latency. This design is applicable for every type of review and SIRI Supply Chain where the auditor plays the same role as the reviewer in SIRI review and mainly responsible for auditing, checking the compliance of the processes and standards of Supply Chain system.
 
 Motivations and Economical problems
 
