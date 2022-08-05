@@ -1,4 +1,4 @@
-#EthereumBlockchainBasedimplementationofpeerreviewsystem.
+#SolidityBlockchainBasedimplementationofpeerreviewsystem.
 
 Objective The idea is to build a platform, say SIRI to provide BaaS (Blockchain as a service) platform. Based on the essentials of Blockchain Technology, We, the team SARA decided to design a platform in the necessitous field such as paper publication, review industry, supply chain management, healthcare and education services on SARA network.
 
