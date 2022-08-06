@@ -14,7 +14,7 @@ SARA tokens shall be the native token of the system, with the purpose of tokeniz
 
 #SARAARCHITECTURE 
 
-![alt image]https://github.com/Apollo9999/SARA_REVIEWMANAGER/blob/main/SARA%20ARCHITECTURE.png
+![alt image](https://github.com/Apollo9999/SARA_REVIEWMANAGER/blob/main/SARA%20ARCHITECTURE.png)
 
 Implementation
 
