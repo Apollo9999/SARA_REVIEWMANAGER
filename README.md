@@ -12,6 +12,10 @@ During the development of the peer review platforms, SARA network noticed the im
 
 SARA tokens shall be the native token of the system, with the purpose of tokenizing the review industry as well as the Supply Chain Management. In traditional systems, the contributors of the system do not get any instant reward for reviewing, hence we made this system completely incentivised using cyptocurrencies and smart contracts using self created reward distribution function.
 
+#SARAARCHITECTURE 
+
+![alt image]https://github.com/Apollo9999/SARA_REVIEWMANAGER/blob/main/SARA%20ARCHITECTURE.png
+
 Implementation
 
 Tokens(ETH and SAT)
