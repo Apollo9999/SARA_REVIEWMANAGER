@@ -36,11 +36,11 @@ Review Credibility: If there is no incentive to write reviews , could it be that
 Our platform implements several innovative technologies , most of which are based on the blockchain technology. Smart contracts let us publicly save thousands of reviews , thus making it impossible to delete or modify them. Our economic model involves the ETH and SAT tokens and helps motivate users to leave only genuine feedback. In addition , we use mathematical formulas for calculating rewards that make submitting fake reviews economically unprofitable.
 Applications 1) Blockchain based paper review system. 2) Blockchain based peer review system(Blockdoor) 3) Blockchain based supply management system.
 
-Please find the detailed explanation of above applications' design and implementation with diagrams in the attached whitepaper
+Please find the detailed explanation of above applications' design and implementation with diagrams in the attached pdf 
 
 Possible issues
 
-User may over populate the system by uploading many documents: The SIRI platform denies such behaviour as user can be allowed to upload only limited papers in fixed time frame.
+User may over populate the system by uploading many documents: The SARa platform denies such behaviour as user can be allowed to upload only limited papers in fixed time frame.
 
 Digital Ownership of documents: Authors can digitally sign the papers using the private key.
 
