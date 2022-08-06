@@ -1,20 +1,20 @@
 #SolidityBlockchainBasedimplementationofpeerreviewsystem.
 
-Objective The idea is to build a platform, say SIRI to provide BaaS (Blockchain as a service) platform. Based on the essentials of Blockchain Technology, We, the team SIRI decided to design a platform in the necessitous field such as paper publication, review industry, supply chain management, healthcare and education services on SIRI network.
+Objective The idea is to build a platform, say SARA to provide BaaS (Blockchain as a service) platform. Based on the essentials of Blockchain Technology, We, the team SARA decided to design a platform in the necessitous field such as paper publication, review industry, supply chain management, healthcare and education services on SARA network.
 
 In recent years, many organizations have sprung up which publish journals submitted to the conferences organized by them. Such prestige system is a complex socio-economic system perpetuated by journals and researchers themselves by rewarding publication in prestigious journals and punishing a lack thereof. It is self-reinforcing and is very difficult to remove. Hence there is a need of a new reputation ecosystem which can assure the credibility of the papers published and gain the trust. The system aims at creating Decentralised Autonomous Organisation (DAO) which encourages peer review and creates its own reputation ecosystem to provide an alternative to the current prestige system that dominates academic publishing with detrimental consequences. Information is stored on the Ethereum blockchain to allow version control of documents and provide redundancy and resiliency to the information in the network.
 
-The review platform of the SIRI network implements the Blockchain technology in order to ensure feedback legitimacy and as a backbone for the economic model which ensures that all feedback is genuine and tamper proof.
+The review platform of the SARA network implements the Blockchain technology in order to ensure feedback legitimacy and as a backbone for the economic model which ensures that all feedback is genuine and tamper proof.
 
-During the development of the peer review platforms, SIRI network noticed the importance of the review or audit activities of the processes or the standards in Traceability system so that we have decided to utilize SIRI platform in Supply Chain Management which mainly focuses on Traceability.
+During the development of the peer review platforms, SARA network noticed the importance of the review or audit activities of the processes or the standards in Traceability system so that we have decided to utilize SIRI platform in Supply Chain Management which mainly focuses on Traceability.
 
-SIRI tokens shall be the native token of the system, with the purpose of tokenizing the review industry as well as the Supply Chain Management. In traditional systems, the contributors of the system do not get any instant reward for reviewing, hence we made this system completely incentivised using cyptocurrencies and smart contracts using self created reward distribution function.
+SARA tokens shall be the native token of the system, with the purpose of tokenizing the review industry as well as the Supply Chain Management. In traditional systems, the contributors of the system do not get any instant reward for reviewing, hence we made this system completely incentivised using cyptocurrencies and smart contracts using self created reward distribution function.
 
 Implementation
 
 Tokens(ETH and SAT)
 
-Our project is different from most other Blockchain projects since two tokens are required for the system to function smoothly. ETH is the Ethereum token which is linked to our own created token SAT for internal mechanism vital to the functioning of the platform. ETH is mainly the transaction fee for every transaction on Ethereum Blockchain whereas SAT token will be exclusively used inside the SIRI network. This approach allows for a stable exchange rate. All interactions between platform, users, stakeholders and companies is based on this approach. We understand that as more and more people use our platform, the demand of the SAT token will become higher than the supply and it’s price on exchanges will start to grow. The system design ensures that the currency rate of SAT should not be affected by the market. To accomplish this, we have decided to make 1 SAT equals to 10 INR for now. It will be later decided on Crowdfunding.
+Our project is different from most other Blockchain projects since two tokens are required for the system to function smoothly. ETH is the Ethereum token which is linked to our own created token SAT for internal mechanism vital to the functioning of the platform. ETH is mainly the transaction fee for every transaction on Ethereum Blockchain whereas SAT token will be exclusively used inside the SARA network. This approach allows for a stable exchange rate. All interactions between platform, users, stakeholders and companies is based on this approach. We understand that as more and more people use our platform, the demand of the SAT token will become higher than the supply and it’s price on exchanges will start to grow. The system design ensures that the currency rate of SAT should not be affected by the market. To accomplish this, we have decided to make 1 SAT equals to 10 INR for now. It will be later decided on Crowdfunding.
 
 Design
 
@@ -50,6 +50,6 @@ Companies purchasing reviews: This type of behaviour is not economically feasibl
 
 Companies rejecting all critical reviews: Since all reviews and the company’s rejection or approval pf them are visible to everyone on the system, companies with high rejection rates will raise suspicion.
 
-Unauthentic user may try to change the information related to product: Our system doesn’t allow such behaviour to as for each change in the information on Blockchain, it get’s the change verified from every other nodes on the SIRI network (Consensus Mechanism)
+Unauthentic user may try to change the information related to product: Our system doesn’t allow such behaviour to as for each change in the information on Blockchain, it get’s the change verified from every other nodes on the SARA network (Consensus Mechanism)
 
 
