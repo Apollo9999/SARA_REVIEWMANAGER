@@ -50,6 +50,6 @@ Companies purchasing reviews: This type of behaviour is not economically feasibl
 
 Companies rejecting all critical reviews: Since all reviews and the company’s rejection or approval pf them are visible to everyone on the system, companies with high rejection rates will raise suspicion.
 
-Unauthentic user may try to change the information related to product: Our system doesn’t allow such behaviour to as for each change in the information on Blockchain, it get’s the change verified from every other nodes on the SARA network (Consensus Mechanism)
+Unauthentic user may try to change the information related to product: Our system doesn’t allow such behaviour to as for each change in the information on Blockchain, it get’s the change verified from every other nodes on the SIRI network (Consensus Mechanism)
 
 
